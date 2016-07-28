@@ -21,7 +21,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MattMcFarland/react-darkroom.git"
+    "url": "git+https://github.com/andrewprakash/react-darkroom.git"
   },
   "keywords": [
     "react-component",
